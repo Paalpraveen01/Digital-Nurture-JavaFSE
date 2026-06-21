@@ -31,4 +31,5 @@ BEGIN
   END;
   /
   --Selecting From Tables
+  
 SELECT * FROM Loans;
