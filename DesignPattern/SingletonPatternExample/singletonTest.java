@@ -1,7 +1,7 @@
 package DesignPattern.SingletonPatternExample;
 
 public class singletonTest {
-    public class SingletonTest {
+    
 
     public static void main(String[] args) {
 
@@ -18,4 +18,4 @@ public class singletonTest {
         }
     }
 }
-}
+
