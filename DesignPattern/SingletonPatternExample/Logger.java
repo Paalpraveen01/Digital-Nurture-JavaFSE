@@ -14,7 +14,6 @@ public class Logger {
         }
         return instance;
     }
-
     // Logging method
     public void log(String message) {
         System.out.println("LOG: " + message);
