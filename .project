@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>loggingdemo</name>
+=======
+	<name>JUnitDemo</name>
+>>>>>>> d4f7dccf064a0f6378e4ab29e544803638675357
 	<comment></comment>
 	<projects>
 	</projects>
@@ -20,4 +24,18 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+<<<<<<< HEAD
+=======
+	<filteredResources>
+		<filter>
+			<id>1782541445478</id>
+			<name></name>
+			<type>30</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>node_modules|\.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+>>>>>>> d4f7dccf064a0f6378e4ab29e544803638675357
 </projectDescription>
